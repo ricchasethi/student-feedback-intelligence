@@ -1,0 +1,125 @@
+text,category,sentiment_score,sentiment,word_count,is_empty,is_duplicate,is_very_short,possible_pii,possible_multi_idea
+very good.,library_facilities,1,positive,2,False,True,True,False,False
+Yes,labwork,1,positive,1,False,True,True,False,False
+excellent,teaching,1,positive,1,False,True,True,False,False
+all are good,teaching,1,positive,3,False,True,True,False,False
+very good,labwork,1,positive,2,False,True,True,False,False
+Average,examination,0,neutral,1,False,True,True,False,False
+It is excellent.,extracurricular,1,positive,3,False,True,True,False,False
+not bad,course_content,1,positive,2,False,True,True,False,False
+Excellent,library_facilities,1,positive,1,False,True,True,False,False
+average,teaching,0,neutral,1,False,True,True,False,False
+good,examination,1,positive,1,False,True,True,False,False
+good.,library_facilities,1,positive,1,False,True,True,False,False
+good,teaching,1,positive,1,False,True,True,False,False
+It's good,labwork,1,positive,2,False,True,True,False,False
+not good,teaching,-1,negative,2,False,True,True,False,False
+good,extracurricular,1,positive,1,False,True,True,False,False
+Perfect,course_content,1,positive,1,False,True,True,False,False
+GOOD,teaching,1,positive,1,False,True,True,False,False
+Good,course_content,1,positive,1,False,True,True,False,False
+very good,examination,1,positive,2,False,True,True,False,False
+It is good,teaching,1,positive,3,False,True,True,False,False
+average,library_facilities,0,neutral,1,False,True,True,False,False
+Yes,library_facilities,1,positive,1,False,True,True,False,False
+excellent,labwork,1,positive,1,False,True,True,False,False
+all are good,examination,1,positive,3,False,True,True,False,False
+It's good,teaching,1,positive,2,False,True,True,False,False
+excellent,examination,1,positive,1,False,True,True,False,False
+super,labwork,1,positive,1,False,True,True,False,False
+Good,extracurricular,1,positive,1,False,True,True,False,False
+very good,extracurricular,1,positive,2,False,True,True,False,False
+Excellent,examination,1,positive,1,False,True,True,False,False
+average,course_content,0,neutral,1,False,True,True,False,False
+it is good,examination,1,positive,3,False,True,True,False,False
+Not good,examination,-1,negative,2,False,True,True,False,False
+satisfied,teaching,1,positive,1,False,True,True,False,False
+Good,examination,1,positive,1,False,True,True,False,False
+Its good,labwork,1,positive,2,False,True,True,False,False
+Good,library_facilities,1,positive,1,False,True,True,False,False
+it is good,extracurricular,1,positive,3,False,True,True,False,False
+average,library_facilities,1,positive,1,False,True,True,False,False
+Average,library_facilities,0,neutral,1,False,True,True,False,False
+all things are good,examination,1,positive,4,False,True,False,False,False
+good,library_facilities,1,positive,1,False,True,True,False,False
+satisfactory,examination,1,positive,1,False,True,True,False,False
+Good.,extracurricular,1,positive,1,False,True,True,False,False
+Its good,library_facilities,1,positive,2,False,True,True,False,False
+Perfect,extracurricular,1,positive,1,False,True,True,False,False
+Very good,examination,1,positive,2,False,True,True,False,False
+bad,examination,-1,negative,1,False,True,True,False,False
+all are good,library_facilities,1,positive,3,False,True,True,False,False
+All good,extracurricular,1,positive,2,False,True,True,False,False
+GOOD,examination,1,positive,1,False,True,True,False,False
+good.,examination,1,positive,1,False,True,True,False,False
+Very good,extracurricular,1,positive,2,False,True,True,False,False
+Its good,course_content,1,positive,2,False,True,True,False,False
+Not good,course_content,-1,negative,2,False,True,True,False,False
+not bad,teaching,1,positive,2,False,True,True,False,False
+Nice,course_content,1,positive,1,False,True,True,False,False
+nice,extracurricular,1,positive,1,False,True,True,False,False
+average,extracurricular,0,neutral,1,False,True,True,False,False
+not so good,teaching,-1,negative,3,False,True,True,False,False
+GOOD,labwork,1,positive,1,False,True,True,False,False
+nice,teaching,1,positive,1,False,True,True,False,False
+Average,extracurricular,0,neutral,1,False,True,True,False,False
+ok,labwork,1,positive,1,False,True,True,False,False
+It is good,extracurricular,1,positive,3,False,True,True,False,False
+average,examination,0,neutral,1,False,True,True,False,False
+super,library_facilities,1,positive,1,False,True,True,False,False
+very good,teaching,1,positive,2,False,True,True,False,False
+Accurate,course_content,1,positive,1,False,True,True,False,False
+Excellent,course_content,1,positive,1,False,True,True,False,False
+Awesome,extracurricular,1,positive,1,False,True,True,False,False
+excellent,extracurricular,1,positive,1,False,True,True,False,False
+super,extracurricular,1,positive,1,False,True,True,False,False
+Excellent,labwork,1,positive,1,False,True,True,False,False
+Nice,library_facilities,1,positive,1,False,True,True,False,False
+ok,course_content,1,positive,1,False,True,True,False,False
+better,library_facilities,1,positive,1,False,True,True,False,False
+satisfactory,labwork,1,positive,1,False,True,True,False,False
+very good.,teaching,1,positive,2,False,True,True,False,False
+Awesome,course_content,1,positive,1,False,True,True,False,False
+average,labwork,0,neutral,1,False,True,True,False,False
+Yes,examination,1,positive,1,False,True,True,False,False
+satisfied,examination,1,positive,1,False,True,True,False,False
+they are good,library_facilities,1,positive,3,False,True,True,False,False
+Descent.,examination,1,positive,1,False,True,True,False,False
+good,course_content,1,positive,1,False,True,True,False,False
+they are good,extracurricular,1,positive,3,False,True,True,False,False
+Accurate,examination,1,positive,1,False,True,True,False,False
+not bad,examination,1,positive,2,False,True,True,False,False
+very good,course_content,1,positive,2,False,True,True,False,False
+good,labwork,1,positive,1,False,True,True,False,False
+Excellent,extracurricular,1,positive,1,False,True,True,False,False
+GOOD,library_facilities,1,positive,1,False,True,True,False,False
+Average,labwork,0,neutral,1,False,True,True,False,False
+not so good,examination,-1,negative,3,False,True,True,False,False
+not good,course_content,-1,negative,2,False,True,True,False,False
+Good.,labwork,1,positive,1,False,True,True,False,False
+ok,extracurricular,1,positive,1,False,True,True,False,False
+It is excellent.,library_facilities,1,positive,3,False,True,True,False,False
+excellent,library_facilities,1,positive,1,False,True,True,False,False
+Yes,extracurricular,1,positive,1,False,True,True,False,False
+Yes,teaching,1,positive,1,False,True,True,False,False
+Descent.,library_facilities,1,positive,1,False,True,True,False,False
+Accurate,teaching,1,positive,1,False,True,True,False,False
+Not good,library_facilities,-1,negative,2,False,True,True,False,False
+ok,examination,1,positive,1,False,True,True,False,False
+All good,labwork,1,positive,2,False,True,True,False,False
+Very good,course_content,1,positive,2,False,True,True,False,False
+Very good,labwork,1,positive,2,False,True,True,False,False
+better,extracurricular,1,positive,1,False,True,True,False,False
+all things are good,teaching,1,positive,4,False,True,False,False,False
+good.,course_content,1,positive,1,False,True,True,False,False
+excellent,course_content,1,positive,1,False,True,True,False,False
+very good,library_facilities,1,positive,2,False,True,True,False,False
+Good,teaching,1,positive,1,False,True,True,False,False
+not bad,labwork,1,positive,2,False,True,True,False,False
+Perfect,teaching,1,positive,1,False,True,True,False,False
+GOOD,course_content,1,positive,1,False,True,True,False,False
+Yes,course_content,1,positive,1,False,True,True,False,False
+good.,extracurricular,1,positive,1,False,True,True,False,False
+Good,labwork,1,positive,1,False,True,True,False,False
+satisfactory,teaching,1,positive,1,False,True,True,False,False
+bad,labwork,-1,negative,1,False,True,True,False,False

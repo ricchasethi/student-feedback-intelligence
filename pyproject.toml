@@ -1,0 +1,48 @@
+[project]
+name = "student-voice-intelligence"
+version = "0.1.0"
+description = "LLM-assisted thematic analysis of student feedback"
+requires-python = ">=3.12"
+dependencies = [
+    "anthropic>=1.11.0",
+    "bertopic>=0.17.4",
+    "datasets>=4",
+    "fastapi>=0.142.2",
+    "hdbscan>=0.8.44",
+    "huggingface-hub>=1.33.0",
+    "matplotlib>=3.11.2",
+    "numpy>=2.5.3",
+    "pandas>=3.0.6",
+    "plotly>=7.1.0",
+    "polars>=2.0.0",
+    "pyarrow>=25.0.1",
+    "pydantic>=2.13.5",
+    "python-dotenv>=1.2.4",
+    "pyyaml>=6.0.3",
+    "scikit-learn>=1.9.1",
+    "scipy>=1.18.1",
+    "seaborn>=0.13.2",
+    "sentence-transformers>=5",
+    "streamlit>=1.65.0",
+    "torch>=2.14.1",
+    "umap-learn>=0.5.12",
+    "uvicorn[standard]>=0.54.0",
+]
+
+# No NVIDIA GPU on this machine: take torch from the CPU-only index.
+[tool.uv.sources]
+torch = [{ index = "pytorch-cpu" }]
+
+[[tool.uv.index]]
+name = "pytorch-cpu"
+url = "https://download.pytorch.org/whl/cpu"
+explicit = true
+
+[dependency-groups]
+dev = [
+    "ipykernel>=7.4.0",
+    "jupyterlab>=4.6.4",
+    "pytest>=9.1.1",
+    "pytest-cov>=7.1.0",
+    "ruff>=0.16.10",
+]
