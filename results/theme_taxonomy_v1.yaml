@@ -1,0 +1,99 @@
+version: v1
+status: draft, needs analyst review
+source: 'notebooks/04_bertopic.ipynb: BERTopic, all-MiniLM-L6-v2, UMAP(15, 5, cosine,
+  seed 42), HDBSCAN(min_cluster_size=10)'
+themes:
+- name: Teaching Quality
+  status: proposed
+  actionable: true
+  description: How teachers deliver lectures, interact with students, keep to time
+    and know their subject.
+  subthemes:
+  - Lecture delivery
+  - Interaction with students
+  - Punctuality
+  - Subject knowledge
+  source_topics:
+  - 0
+  n_comments: 87
+- name: Course Content
+  status: proposed
+  actionable: true
+  description: Depth, coverage and quality of courses and course material.
+  subthemes:
+  - Depth of content
+  - Course material
+  source_topics:
+  - 1
+  n_comments: 77
+- name: Assessment and Marking
+  status: proposed
+  actionable: true
+  description: Exam pattern and question types, marks distribution, and accuracy and
+    transparency of paper checking.
+  subthemes:
+  - Assessment design
+  - Feedback and marking
+  source_topics:
+  - 2
+  n_comments: 69
+- name: Library and Learning Resources
+  status: proposed
+  actionable: true
+  description: Availability of books, issue limits and library facilities.
+  subthemes:
+  - Book availability
+  - Issue limits and duration
+  - Library facilities
+  source_topics:
+  - 3
+  n_comments: 67
+- name: Practical Work
+  status: proposed
+  actionable: true
+  description: 'Labs and practical sessions: usefulness, duration and equipment.'
+  subthemes:
+  - Value of practicals
+  - Session length
+  - Equipment
+  source_topics:
+  - 4
+  n_comments: 63
+- name: Extracurricular Activities
+  status: proposed
+  actionable: true
+  description: Events, sports and activities outside the curriculum, and time to take
+    part in them.
+  subthemes:
+  - Range of activities
+  - Time to participate
+  source_topics:
+  - 6
+  n_comments: 36
+- name: General feedback (no specific theme)
+  status: proposed
+  actionable: false
+  description: Short evaluative comments ('good', 'excellent', 'poor', 'average')
+    with no topic. They carry sentiment, but their theme comes from the survey question,
+    not from the text.
+  subthemes: []
+  source_topics:
+  - 5
+  - 7
+  - 8
+  - 9
+  - 10
+  - 11
+  - 12
+  - 13
+  - 14
+  - 15
+  n_comments: 260
+outliers:
+  n_comments: 65
+  handling: analyst review queue
+not_observed:
+- Assessment Workload
+- Course Organisation
+- Technology
+- Student Support

@@ -1,0 +1,17 @@
+topic,count,pct,keywords,description,theme,coherence_c_v
+0,87,12.0,"teaching, delivery, interaction, punctuality, teachers, lectures, teacher, punctual","Lecture delivery, interaction with students and punctuality",Teaching Quality,0.6
+1,77,10.6,"course, content, courses, depth, material, knowledge, proper, subjects",Depth of courses and quality of course material,Course Content,0.551
+2,69,9.5,"pattern, paper, exam, examination, marks, distribution, exams, good","Exam pattern, marks distribution and paper checking",Assessment and Marking,0.67
+3,67,9.3,"library, books, facilities, available, number, increased, problem, think",Library facilities and availability of books,Library and Learning Resources,0.431
+4,63,8.7,"practical, work, labs, practicals, hours, knowledge, know, working",Labs and practical work,Practical Work,0.39
+5,50,6.9,"best, good, better, great, quite, gud, fine, really","Generic praise: good, best, great",General feedback (no specific theme),0.568
+6,36,5.0,"activities, lot, held, participate, university, events, students, platform",Extracurricular activities and events,Extracurricular Activities,0.526
+7,36,5.0,"excellent, nice, perfect, accurate, great, awesome, superb, simply","One-word praise: excellent, nice, perfect",General feedback (no specific theme),0.568
+8,36,5.0,"poor, bad, improve, descent, good, dont, strict, improved","Generic criticism: poor, bad, needs improvement",General feedback (no specific theme),0.519
+9,31,4.3,"good, thats, timing, nice",'Good',General feedback (no specific theme),0.345
+10,23,3.2,"good, pretty, cooperative, tough, quite",'Very good' / 'pretty good',General feedback (no specific theme),0.342
+11,22,3.0,"fine, things, good, thing, behave, faculties, interested, according",'Everything is fine',General feedback (no specific theme),0.411
+12,19,2.6,"satisfactory, super, satisfied, appreciable, excllent, extraordinary, felt, held",'Satisfactory' / 'super',General feedback (no specific theme),0.585
+13,15,2.1,"university, best, world, compared, classes, things, like, held",Praise for the university as a whole,General feedback (no specific theme),0.359
+14,15,2.1,"average, rating, term, based, subjects",'Average',General feedback (no specific theme),0.535
+15,13,1.8,"extraordinary, job, able, help, conducted, doing, hard, going",'They are doing their job well',General feedback (no specific theme),0.538

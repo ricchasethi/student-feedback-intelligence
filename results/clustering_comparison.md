@@ -1,0 +1,41 @@
+# Clustering Comparison
+
+Embedding model: all-MiniLM-L6-v2
+
+## Chosen configurations
+
+                 method  n_clusters  largest_cluster_pct  noise_pct  silhouette  ari_vs_category  ari_vs_sentiment
+          TF-IDF+KMeans           6                 66.9        0.0       0.007            0.034            -0.057
+         PCA(10)+KMeans           6                 30.9        0.0       0.175            0.186             0.042
+UMAP(15, 5)+HDBSCAN(10)          17                 13.4        9.3       0.190            0.326             0.010
+
+## All runs
+
+       method                       params  n_clusters  largest_cluster_pct  noise_pct  silhouette  ari_vs_category  ari_vs_sentiment
+       KMeans  model=all-MiniLM-L6-v2, k=6           6                 23.2        0.0       0.146            0.201             0.044
+       KMeans model=all-mpnet-base-v2, k=6           6                 31.4        0.0       0.126            0.189             0.022
+TF-IDF+KMeans                          k=6           6                 66.9        0.0       0.007            0.034            -0.057
+   PCA+KMeans                   pca=2, k=6           6                 19.6        0.0       0.076            0.101             0.031
+   PCA+KMeans                   pca=5, k=6           6                 30.0        0.0       0.176            0.194             0.046
+   PCA+KMeans                  pca=10, k=6           6                 30.9        0.0       0.175            0.186             0.042
+   PCA+KMeans                  pca=25, k=6           6                 30.7        0.0       0.177            0.188             0.046
+   PCA+KMeans                  pca=50, k=6           6                 30.7        0.0       0.175            0.186             0.044
+   PCA+KMeans                 pca=100, k=6           6                 30.7        0.0       0.175            0.187             0.044
+ UMAP+HDBSCAN           nn=5, dim=5, mcs=5          39                 11.5        6.4       0.145            0.252             0.002
+ UMAP+HDBSCAN          nn=5, dim=5, mcs=10          19                 11.8       13.4       0.175            0.290             0.005
+ UMAP+HDBSCAN          nn=5, dim=5, mcs=20           9                 42.4        5.0       0.129            0.198             0.009
+ UMAP+HDBSCAN          nn=15, dim=5, mcs=5          27                 13.0        7.7       0.241            0.334            -0.004
+ UMAP+HDBSCAN         nn=15, dim=5, mcs=10          17                 13.4        9.3       0.190            0.326             0.010
+ UMAP+HDBSCAN         nn=15, dim=5, mcs=20          11                 13.8       17.1       0.188            0.305             0.010
+ UMAP+HDBSCAN          nn=30, dim=5, mcs=5          29                 11.1       10.2       0.228            0.293            -0.000
+ UMAP+HDBSCAN         nn=30, dim=5, mcs=10          16                 13.9       13.5       0.224            0.324             0.008
+ UMAP+HDBSCAN         nn=30, dim=5, mcs=20          11                 14.3       17.0       0.195            0.316             0.007
+ UMAP+HDBSCAN          nn=50, dim=5, mcs=5          28                 11.4       11.3       0.230            0.296             0.001
+ UMAP+HDBSCAN         nn=50, dim=5, mcs=10          18                 12.3       17.8       0.230            0.283             0.006
+ UMAP+HDBSCAN         nn=50, dim=5, mcs=20          11                 14.8       23.5       0.215            0.283             0.016
+ UMAP+HDBSCAN         nn=15, dim=2, mcs=10          17                 13.9        8.4       0.193            0.330             0.008
+ UMAP+HDBSCAN        nn=15, dim=10, mcs=10          16                 14.7       10.6       0.198            0.303             0.013
+
+## Answers
+
+(fill in from the notebook)

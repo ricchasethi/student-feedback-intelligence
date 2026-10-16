@@ -1,0 +1,81 @@
+topic,rank,comment_id,text,description
+0,1,557,"Interaction between students and teachers is good ,The lectures delivery is fine, punctuality is good","Lecture delivery, interaction with students and punctuality"
+0,2,7,"Teaching is excellent,but lecture delivery is not up to the mark.Punctuality is good","Lecture delivery, interaction with students and punctuality"
+0,3,164,in terms of lecture delivery that is good.in terms of punctuality that is also good but in terms of intraction that is very bad. There are some teachers they donot interact and do not litsn our problms that means they do not coprate.,"Lecture delivery, interaction with students and punctuality"
+0,4,107,Excellent lectures are delivered by teachers and all teachers are very punctual.,"Lecture delivery, interaction with students and punctuality"
+0,5,20,"Interaction is satisfying, Lecture delivery is Good, Punctuality is Excellent","Lecture delivery, interaction with students and punctuality"
+1,1,686,course contents are very much relevant to our courses,Depth of courses and quality of course material
+1,2,18,content of the course is good,Depth of courses and quality of course material
+1,3,209,Content of the courses is good but some courses need improvement. Course material is not upto the mark.,Depth of courses and quality of course material
+1,4,571,The content of the courses are good but depth of courses are not enough to get the good concepts.,Depth of courses and quality of course material
+1,5,457,the content of the course is knowledgeable,Depth of courses and quality of course material
+2,1,568,"examination pattern, marks, paper checking is good.","Exam pattern, marks distribution and paper checking"
+2,2,46,"Exam pattern Very good, Marks distribution good but sometimes disappointing, paper checking OK","Exam pattern, marks distribution and paper checking"
+2,3,670,exam pattern is very nice but paper checking is not at all good .,"Exam pattern, marks distribution and paper checking"
+2,4,103,Exam pattern and marks distribution are excellent but sometimes there are some errors in paper checking.,"Exam pattern, marks distribution and paper checking"
+2,5,105,exam pattern is good and good paper checking but paper checking can be improved,"Exam pattern, marks distribution and paper checking"
+3,1,405,very good library facilities. Issuing time of book must be increased,Library facilities and availability of books
+3,2,517,library facilities are good but number of books are less,Library facilities and availability of books
+3,3,264,library facilities are excellent...but only limited books are available ..so books should be increased.,Library facilities and availability of books
+3,4,492,library facilities need to be improve by bringing some more books,Library facilities and availability of books
+3,5,232,library facilities are good . Every book is available in the library,Library facilities and availability of books
+4,1,349,lab and practical work are litial good,Labs and practical work
+4,2,638,lab improves practical knowledge,Labs and practical work
+4,3,611,lab work is quite good,Labs and practical work
+4,4,701,labs are good but experiments are not very informative,Labs and practical work
+4,5,598,labs are very interesting it is helpful to know the knowledge,Labs and practical work
+5,1,217,it is good,"Generic praise: good, best, great"
+5,2,250,Its good,"Generic praise: good, best, great"
+5,3,221,Its Quite Good,"Generic praise: good, best, great"
+5,4,97,It's good,"Generic praise: good, best, great"
+5,5,628,its to good,"Generic praise: good, best, great"
+6,1,364,some of the universities not conducted any extracurricular activities but in our university doing these it is good for our feature,Extracurricular activities and events
+6,2,541,extracurricular activities are good.,Extracurricular activities and events
+6,3,329,extracurricular activities are excellent and provides best platform to students.,Extracurricular activities and events
+6,4,418,Extracurricular activities are good. It helps people to know their talent and build up their skills.,Extracurricular activities and events
+6,5,679,good and ample number of extracurricular activities take place,Extracurricular activities and events
+7,1,6,excellent,"One-word praise: excellent, nice, perfect"
+7,2,262,Great,"One-word praise: excellent, nice, perfect"
+7,3,389,Nice,"One-word praise: excellent, nice, perfect"
+7,4,669,perfect,"One-word praise: excellent, nice, perfect"
+7,5,447,Awesome,"One-word praise: excellent, nice, perfect"
+8,1,558,not good,"Generic criticism: poor, bad, needs improvement"
+8,2,74,not much good,"Generic criticism: poor, bad, needs improvement"
+8,3,10,Not so good,"Generic criticism: poor, bad, needs improvement"
+8,4,213,not very good... must be improved.,"Generic criticism: poor, bad, needs improvement"
+8,5,25,not good...... must be improve,"Generic criticism: poor, bad, needs improvement"
+9,1,709,Good,'Good'
+9,2,65,Good enough,'Good'
+9,3,667,Well and Good,'Good'
+9,4,379,Thats good,'Good'
+9,5,578,hahahah,'Good'
+10,1,17,very good,'Very good' / 'pretty good'
+10,2,512,quite good,'Very good' / 'pretty good'
+10,3,33,Pretty Good,'Very good' / 'pretty good'
+10,4,480,very good indeed,'Very good' / 'pretty good'
+10,5,211,very well,'Very good' / 'pretty good'
+11,1,13,everything is good,'Everything is fine'
+11,2,249,All is good .,'Everything is fine'
+11,3,332,all are good,'Everything is fine'
+11,4,636,all things are good,'Everything is fine'
+11,5,698,Everything is fine.,'Everything is fine'
+12,1,1,Satisfactory,'Satisfactory' / 'super'
+12,2,228,satisfied,'Satisfactory' / 'super'
+12,3,469,Outstanding,'Satisfactory' / 'super'
+12,4,452,super,'Satisfactory' / 'super'
+12,5,487,EXTRAORDINARY,'Satisfactory' / 'super'
+13,1,80,This is the best in our university because there is no other university which takes seriously for practical work.,Praise for the university as a whole
+13,2,328,IT IS THE BEST THING IN THIS UNIVERSITY I LIKE IT,Praise for the university as a whole
+13,3,29,As compared to other colleges and university our university is perfect in all the aspects,Praise for the university as a whole
+13,4,295,Overall all these things are the plus point of the university,Praise for the university as a whole
+13,5,239,All is good. no other university is so serious about the concept of practicals.,Praise for the university as a whole
+14,1,551,Average,'Average'
+14,2,140,average 3.5/5,'Average'
+14,3,339,average(in one term there should be only two major subjects based on numerical),'Average'
+14,4,455,normal,'Average'
+14,5,85,my rating in this is 4/5,'Average'
+15,1,453,They are good,'They are doing their job well'
+15,2,341,they are going excellent,'They are doing their job well'
+15,3,90,"good,they work very hard for us",'They are doing their job well'
+15,4,682,They are doing there job well,'They are doing their job well'
+15,5,19,They are extraordinary,'They are doing their job well'

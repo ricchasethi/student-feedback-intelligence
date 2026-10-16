@@ -8,6 +8,7 @@ dependencies = [
     "bertopic>=0.17.4",
     "datasets>=4",
     "fastapi>=0.142.2",
+    "gensim>=4.4.0",
     "hdbscan>=0.8.44",
     "huggingface-hub>=1.33.0",
     "matplotlib>=3.11.2",
@@ -46,3 +47,6 @@ dev = [
     "pytest-cov>=7.1.0",
     "ruff>=0.16.10",
 ]
+
+[tool.pytest.ini_options]
+pythonpath = ["."]
